@@ -25,8 +25,6 @@ Kart Mania is a multiplayer kart racing game I created in Unity using the Mirror
 <br />
 </p>
 
-![OilSpill]()
-
 
 <br />
 
