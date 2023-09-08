@@ -8,7 +8,7 @@ Kart Mania is a multiplayer kart racing game I created in Unity using the Mirror
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="https://giphy.com/embed/LtaTS9vYHXPwDszLAh" height="80%" width="80%" alt="Kart Mania"/>
+<img src="" height="80%" width="80%" alt="Kart Mania"/>
 <br />
 <br />
 <img src="https://github.com/Csjg2002/Kart-Mania/assets/131481041/04169396-c104-4c55-bd56-982f260466eb" height="80%" width="80%" alt="Kart Mania"/>
@@ -17,7 +17,7 @@ Kart Mania is a multiplayer kart racing game I created in Unity using the Mirror
 <img src="https://github.com/Csjg2002/Kart-Mania/assets/131481041/415c7e48-ee62-43c5-9952-4fe122a9bd89" height="80%" width="80%" alt="Kart Mania"/>
 <br />
 <br />
-<img src="https://github.com/Csjg2002/Kart-Mania/assets/131481041/0c1bb490-0e3d-4bd4-8252-39964cd40009" height="80%" width="80%" alt="Kart Mania"/>
+<img src="https://github.com/Csjg2002/Kart-Mania/assets/131481041/bbbe4d9b-e3cf-4c0e-ac40-57f41d82e6ec" height="80%" width="80%" alt="Kart Mania"/>
 <br />
 <br />
 <img src="https://github.com/Csjg2002/Kart-Mania/assets/131481041/88804a1a-8a73-4a96-9994-a119dd7132f4" height="80%" width="80%" alt="Kart Mania"/>
@@ -25,7 +25,8 @@ Kart Mania is a multiplayer kart racing game I created in Unity using the Mirror
 <br />
 </p>
 
-<iframe src="" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LtaTS9vYHXPwDszLAh">via GIPHY</a></p>
+![OilSpill]()
+
 
 <br />
 
