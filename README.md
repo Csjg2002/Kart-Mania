@@ -1,7 +1,7 @@
 <h1>Kart Mania</h1>
 
 <h2>Description</h2>
-
+Kart Mania is a multiplayer kart racing game I created in Unity using the Mirror networking API as a way to introduce myself to networked games programming.
 
 <br />
 
