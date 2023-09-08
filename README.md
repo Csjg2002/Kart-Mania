@@ -26,6 +26,15 @@
 
 <h2>Lobby Menu Screenshots:</h2>
 
+<p align="center">
+<img src="https://imgpile.com/images/CS2hBM.png" height="80%" width="80%" alt="Aathma"/>
+<br />
+<br />
+<img src="https://imgpile.com/images/CS2DM2.png" height="80%" width="80%" alt="Aathma"/>
+<br />
+<br />
+<img src="https://imgpile.com/images/CS2dck.png" height="80%" width="80%" alt="Aathma"/>
+<br />
 <br />
 
-<h2>Credits:</h2>
+<br />
