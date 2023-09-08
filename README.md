@@ -8,7 +8,7 @@ Kart Mania is a multiplayer kart racing game I created in Unity using the Mirror
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Kart Mania"/>
+<img src="https://giphy.com/gifs/3HAzJLpUMasyg2yqU1" height="80%" width="80%" alt="Kart Mania"/>
 <br />
 <br />
 <img src="" height="80%" width="80%" alt="Kart Mania"/>
