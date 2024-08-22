@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 <p>
-Kart Mania is a multiplayer kart racing game I developed in Unity as a way to introduce myself to networked games programming. Utilizing the Mirror networking API, this project allowed me to dive into the complexities of multiplayer game design, creating an engaging online lan racing experience with smooth real-time interactions.
+Kart Mania is a multiplayer kart racing game I developed in Unity as a way to introduce myself to networked games programming. Utilizing the Mirror networking API, this project allowed me to dive into the complexities of multiplayer game design, creating an engaging online LAN racing experience with smooth real-time interactions.
 <br />
 
 <h2>In-game Clips:</h2>
